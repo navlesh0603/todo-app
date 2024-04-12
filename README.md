@@ -1,12 +1,4 @@
-[![Codemagic build status](https://api.codemagic.io/apps/5d0f190099fdb70008475b03/5d0f190099fdb70008475b02/status_badge.svg)](https://codemagic.io/apps/5d0f190099fdb70008475b03/5d0f190099fdb70008475b02/latest_build)
 
-<h1 align="center">
-  <br>
-  <a href=""><img src="https://lh3.googleusercontent.com/WoCgEV-IoxkLTozlfqpxKr_uRTQ7jPFEetLWLTgIVTB4YcrPFpj4LpD9q4XD7Ij2Hos=s360" alt="Todo" width="200"></a>
-  <br>
-  Todo - Simple & Beautiful
-  <br>
-</h1>
 
 <h4 align="center">A minimal Todo mobile app made using <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
 
